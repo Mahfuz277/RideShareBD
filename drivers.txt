@@ -1,0 +1,5 @@
+1,Rahim,01711-000001,CAR,Toyota Axio,DHK-1234,false,5.0,1
+2,Karim,01711-000002,BIKE,Honda CB150R,DHK-5678,false,5.0,0
+3,Sumon,01711-000003,SUV,Toyota Prado,DHK-9101,true,5.0,0
+4,Liton,01711-000004,CAR,Nissan March,DHK-1121,false,5.0,0
+5,Milon,01711-000005,BIKE,Yamaha FZS,DHK-3141,true,5.0,0
